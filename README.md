@@ -1,22 +1,41 @@
-# 💫 About Me:
-🛡️ Currently building my own cybersecurity playground (aka homelab) where I break things 💥 and then defend them 🛠️.<br><br>👾 Love collaborating on Blue vs Red Team battles, vuln web apps, and “who-hacks-who-first” kinda projects.<br><br>📚 Currently leveling up in SOC analyst skills, SQLi detections, and hands-on defense tricks.<br><br>🐍 Ask me about Python hacking tools, brute force detection, or how to make Wazuh freak out in real-time.<br><br>⚙️ Need some help with fine-tuning alerts so they don’t scream at every little thing 😅.<br><br>⚡ Fun fact: I once unleashed 3000+ SSH brute force attempts on myself just to watch my SIEM panic 💻🔥.
+# 💫 About Me
 
+🛡️ Aspiring **SOC Analyst** focused on blue team defense, detection engineering, and incident response.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/putu-elang) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:putuelangarta@gmail.com) 
+🔬 I build attack scenarios in my homelab, then detect and respond to them using a full SIEM pipeline.
 
-# 💻 Tech Stack:
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Latte4Lab&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Latte4Lab&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Latte4Lab&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+📚 Currently leveling up in detection engineering, log analysis, and threat hunting.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Latte4Lab&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+⚡ Fun fact: I am a very curious and won't stop learning type of person.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Latte4Lab&icon=2&color=0)](https://visitcount.itsvg.in)
+
+## 📜 Certifications
+- CompTIA Security+ (SY0-701)
+- Google Cybersecurity by Coursera
+
+---
+
+## 🔬 Current Projects
+- **Homelab SOC Detection Lab** — Splunk SIEM + Sysmon + Kali attack simulations across Windows & Linux
+- Detection query library & IR report writeups
+
+---
+
+## 🛠️ Tools & Skills
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PowerShell](https://img.shields.io/badge/PowerShell-%23531FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+
+**Blue Team:** Splunk · Sysmon · Windows Event Logs · Log Analysis · Detection Engineering  
+**Offensive (for detection):** Nmap · Metasploit · Kali Linux  
+**Systems:** Linux · Windows · VMware
+
+---
+
+## 🌐 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/putu-elang)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:putuelangarta@gmail.com)
